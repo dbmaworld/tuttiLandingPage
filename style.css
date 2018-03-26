@@ -69,7 +69,7 @@ h6 {
 /*
 COLORS
 Green
-#009628
+#0093e4
 Light
 #4CB568
 Gray
@@ -77,11 +77,11 @@ Gray
 */
 
 .colorlib-load {
-    border-color: #dddddd #dddddd #009628 !important;
+    border-color: #dddddd #dddddd #0093e4 !important;
 }
 
 #scrollUp {
-    background-color:#009628 !important;
+    background-color:#0093e4 !important;
 }
 
 /*Navbar*/
@@ -107,13 +107,13 @@ Gray
 }
 /*Special Section*/
 .section-heading > h2 {
-    color:#009628 !important;
+    color:#0093e4 !important;
 }
 .line-shape-white, .line-shape {
     background-color:#4a4a4a !important;
 }
 .single-special > h4 {
-    color:#009628 !important;
+    color:#0093e4 !important;
 }
 .single-icon > i {
     color:#4CB568 !important;
@@ -121,21 +121,21 @@ Gray
 
 .cool_facts_area {
 background: #82cb96 !important;
-    background: -webkit-linear-gradient(to left, #009628, #82cb96) !important;
-    background: -webkit-linear-gradient(right, #009628, #82cb96) !important;
-    background: -webkit-gradient(linear, right top, left top, from(#009628), to(#82cb96)) !important;
-    background: -o-linear-gradient(right, #009628, #82cb96) !important;
-    background: linear-gradient(to left, #009628, #82cb96) !important;
+    background: -webkit-linear-gradient(to left, #0093e4, #82cb96) !important;
+    background: -webkit-linear-gradient(right, #0093e4, #82cb96) !important;
+    background: -webkit-gradient(linear, right top, left top, from(#0093e4), to(#82cb96)) !important;
+    background: -o-linear-gradient(right, #0093e4, #82cb96) !important;
+    background: linear-gradient(to left, #0093e4, #82cb96) !important;
 }
 
 /*CTA*/
 .our-monthly-membership {
-    background: #009628 !important;
-    background: -webkit-linear-gradient(to left, #82cb96, #009628) !important;
-    background: -webkit-linear-gradient(right, #82cb96, #009628) !important;
-    background: -webkit-gradient(linear, right top, left top, from(#82cb96), to(#009628)) !important;
-    background: -o-linear-gradient(right, #82cb96, #009628) !important;
-    background: linear-gradient(to left, #82cb96, #009628) !important;
+    background: #0093e4 !important;
+    background: -webkit-linear-gradient(to left, #82cb96, #0093e4) !important;
+    background: -webkit-linear-gradient(right, #82cb96, #0093e4) !important;
+    background: -webkit-gradient(linear, right top, left top, from(#82cb96), to(#0093e4)) !important;
+    background: -o-linear-gradient(right, #82cb96, #0093e4) !important;
+    background: linear-gradient(to left, #82cb96, #0093e4) !important;
 }
 .get-started-button > a {
     color:#4CB568 !important;
@@ -147,13 +147,13 @@ background: #82cb96 !important;
 
 /*Team*/
 .member-text > h4 {
-    color:#009628 !important;
+    color:#0093e4 !important;
     text-align:center;
 }
 
 /*Contact Form*/
 .btn.submit-btn {
-    background-color:#009628 !important;
+    background-color:#0093e4 !important;
 }
 .btn.submit-btn:hover {
     background-color:#4CB568 !important;
@@ -500,7 +500,7 @@ p {
 /* stcicky css */
 
 .header_area.sticky {
-    background-color: #009628;
+    background-color: #0093e4;
     -webkit-box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     height: 70px;
@@ -526,7 +526,7 @@ p {
 -------------------------- */
 
 .wellcome_area {
-    background-image: url(resources/img/t-split_gradient.png);
+    background-image: url(resources/img/tutti_gradient.png);
     height: 900px;
     position: relative;
     z-index: 1;
@@ -561,7 +561,7 @@ p {
 }
 
 .wellcome-heading > h2 {
-    font-size: 100px;
+    font-size: 50px;
     color: #ffffff;
     font-weight: 700;
     position: relative;
