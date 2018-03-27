@@ -103,7 +103,10 @@ Gray
 }
 
 .single-special {
-    border:1px solid #5b32b4 !important;
+    border:1px solid #4a4a4a !important;
+}
+.get-start-area .email {
+    background:#4a4a4a !important;
 }
 /*Special Section*/
 .section-heading > h2 {
@@ -116,6 +119,22 @@ Gray
     color:#0093e4 !important;
 }
 .single-icon > i {
+    color:#4CB568 !important;
+}
+.special_description_content > h2 {
+    color:#0093e4 !important;
+}
+.single-feature > svg {
+    color: #4CB568;
+    font-size: 25px;
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+}
+
+
+/*Awesome Features*/
+.single-feature > i {
     color:#4CB568 !important;
 }
 
@@ -160,7 +179,9 @@ background: #82cb96 !important;
 }
 
 
-/****************************/
+/***************************************************/
+/***************************************************/
+/***************************************************/
 
 
 .section_padding_100 {
@@ -335,7 +356,7 @@ p {
 
 .section-heading > h2 {
     font-weight: 300;
-    color: #5b32b4;
+    color: #4a4a4a;
     font-size: 48px;
     margin: 0;
 }
@@ -578,22 +599,22 @@ p {
 }
 
 .form-control::-webkit-input-placeholder {
-    color: #cec1f4;
+    color: #999999;
     opacity: 1;
 }
 
 .form-control:-ms-input-placeholder {
-    color: #cec1f4;
+    color: #999999;
     opacity: 1;
 }
 
 .form-control::-ms-input-placeholder {
-    color: #cec1f4;
+    color: #999999;
     opacity: 1;
 }
 
 .form-control::placeholder {
-    color: #cec1f4;
+    color: #999999;
     opacity: 1;
 }
 
@@ -656,7 +677,7 @@ p {
 
 .single-special > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #4a4a4a;
 }
 
 .single-icon {
@@ -665,7 +686,7 @@ p {
 
 .single-special > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #4a4a4a;
     margin-bottom: 15px;
 }
 
@@ -680,7 +701,7 @@ p {
 }
 
 .special_description_content > h2 {
-    color: #5b32b4;
+    color: #4a4a4a;
     font-size: 48px;
     margin-bottom: 30px;
 }
@@ -784,7 +805,7 @@ p {
 
 .single-feature > h5 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #4a4a4a;
 }
 
 .single-feature > p {
@@ -964,7 +985,7 @@ p {
 }
 
 .single-price-plan .package-plan > h5 {
-    color: #5b32b4;
+    color: #4a4a4a;
     font-size: 18px;
 }
 
@@ -1025,7 +1046,7 @@ p {
 -------------------------- */
 
 .clients-feedback-area .client-name > h5 {
-    color: #5b32b4;
+    color: #4a4a4a;
     font-size: 22px;
     margin-top: 5px;
 }
@@ -1169,7 +1190,7 @@ p {
 }
 
 .get-started-button > a:hover {
-    background: #5b32b4;
+    background: #4a4a4a;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -1197,7 +1218,7 @@ p {
 
 .member-text > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #4a4a4a;
 }
 
 .member-text > p {
@@ -1274,7 +1295,7 @@ p {
 .address-text > p > span,
 .phone-text > p > span,
 .email-text > p > span {
-    color: #5b32b4;
+    color: #4a4a4a;
 }
 
 .footer-contact-area .line-shape {
@@ -1315,7 +1336,7 @@ p {
 }
 
 .btn.submit-btn:hover {
-    background: #5b32b4;
+    background: #4a4a4a;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -1335,7 +1356,7 @@ p {
 -------------------------- */
 
 .footer-text > h2 {
-    color: #5b32b4;
+    color: #4a4a4a;
     font-size: 72px;
     font-weight: 700;
 }
