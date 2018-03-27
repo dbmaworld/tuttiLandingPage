@@ -169,6 +169,12 @@ background: #82cb96 !important;
     color:#0093e4 !important;
     text-align:center;
 }
+.team-hover-effects {
+    background-color:transparent !important;
+}
+.team-social-icon a {
+    background-color:transparent !important;
+}
 
 /*Contact Form*/
 .btn.submit-btn {
