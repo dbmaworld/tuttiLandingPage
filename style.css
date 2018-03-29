@@ -163,12 +163,31 @@ background: #82cb96 !important;
     background: -o-linear-gradient(right, #82cb96, #0093e4) !important;
     background: linear-gradient(to left, #82cb96, #0093e4) !important;
 }
-.get-started-button > a {
-    color:#4CB568 !important;
+.get-started-button .email {
+    background: #4a4a4a;
+    height: 50px;
+    max-width: 260px;
+    border: none;
+    border-radius: 24px;
+    padding: 0px 15px;
 }
-.get-started-button > a:hover {
-    color:#fff !important;
-    background-color:#4a4a4a !important;
+.get-started-button .submit {
+    background-color: #0093e4;
+    color: #fff;
+    font-weight: 500;
+    display: inline-block;
+    border: none;
+    height: 50px;
+    min-width: 167px;
+    line-height: 46px;
+    text-align: center;
+    border-radius: 24px 24px 24px 0px;
+    margin-left: 10px;
+    transition-duration:500ms;
+}
+.get-started-button .submit:hover {
+    background-color:#4CB568;
+    transition-duration:500ms;
 }
 
 /*Team*/
