@@ -525,11 +525,11 @@ p {
     color: #fb397d;
 }
 
-.sing-up-button {
+.sign-up-button {
     text-align: right;
 }
 
-.sing-up-button > a {
+.sign-up-button > a {
     color: #fff;
     font-weight: 500;
     display: inline-block;
@@ -541,7 +541,7 @@ p {
     border-radius: 24px 24px 24px 0px;
 }
 
-.sing-up-button > a:hover {
+.sign-up-button > a:hover {
     background: #4CB568;
     color: #fff;
     border-color: transparent;
