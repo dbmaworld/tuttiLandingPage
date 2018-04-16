@@ -201,6 +201,9 @@ background: #82cb96 !important;
 .team-social-icon a {
     background-color:transparent !important;
 }
+.member-image {
+    text-align:center !important;
+}
 
 /*Contact Form*/
 .btn.submit-btn {
