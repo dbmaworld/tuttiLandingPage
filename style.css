@@ -204,6 +204,10 @@ background: #82cb96 !important;
 .member-image {
     text-align:center !important;
 }
+.team-hover-effects {
+    background-color:rgba(0,0,0,.35) !important;
+    border-radius: 50% !important;
+}
 
 /*Contact Form*/
 .btn.submit-btn {
