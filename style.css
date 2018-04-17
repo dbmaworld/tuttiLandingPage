@@ -115,6 +115,19 @@ Gray
 .get-start-area .email {
     background:#4a4a4a !important;
 }
+
+@media (max-width: 767px) {
+    .wellcome-heading > h3 {
+        font-size: 150px !important;
+        position: absolute;
+        top: -135px !important;
+        font-weight: 900;
+        left: -12px;
+        z-index: -1;
+    }
+}
+
+
 /*Special Section*/
 .section-heading > h2 {
     color:#0093e4 !important;
